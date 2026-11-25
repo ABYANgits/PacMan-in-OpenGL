@@ -68,9 +68,3 @@ g++ pacman.cpp -o pacman -lGL -lGLU -lglut
 
 This project is submitted for academic purposes. Feel free to reference or build upon it with attribution.
 
-
-```bash
-nano README.md
-```
-
-Then paste the content, save (`Ctrl+O`, `Enter`), and exit (`Ctrl+X`). Alternatively, use any text editor of your choice.
